@@ -1,20 +1,5 @@
 const staticCacheName = "site-static-v1";
-const assets = [
-  "./",
-  "./index.html",
-  "./index.js",
-  "./manifest.json",
-  "./bilder/background.jpg",
-  "./bilder/1.jpg",
-  "./bilder/4.jpg",
-  "./bilder/icon512_maskable.png",
-  "./main.css",
-  "./main.css.map",
-  "./bootstrap.min.css",
-  "./script.js",
-  "./st.html",
-  "./bilder/5.jpg",
-];
+
 
 self.addEventListener("install", (evt) => {
   console.log("service worker has been installed");
