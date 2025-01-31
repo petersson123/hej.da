@@ -1,5 +1,5 @@
 describe('template spec', () => {
   it('passes', () => {
-    cy.visit('https://github.com/petersson123/hej.da')
+    cy.visit('https://petersson123.github.io/hej.da/')
   })
 })
