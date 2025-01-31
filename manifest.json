@@ -6,21 +6,21 @@
   "display": "standalone",
   "dir": "auto",
   "lang": "sv",
-  "name": "Quiz",
-  "short_name": "Quiz",
-  "start_url": "https://petersson123.github.io/npm-sass/",
+  "name": "PWA",
+  "short_name": "PWA",
+  "start_url": "https://petersson123.github.io/hej.da/",
 
   "icons": [
     {
       "purpose": "maskable",
       "sizes": "512x512",
-      "src": "./bilder/icon512_maskable.png",
+      "src": "./bild.png",
       "type": "image/png"
     },
     {
       "purpose": "any",
       "sizes": "512x512",
-      "src": "./bilder/icon512_maskable.png",
+      "src": "./bild.png",
       "type": "image/png"
     }
   ]
