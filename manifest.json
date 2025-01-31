@@ -1,8 +1,27 @@
 {
-    "name": "quiz",
-    "theme_color": "#2196f3",
-    "background_color": "#2196f3",
-    "display": "browser",
-    "scope": "/",
-    "start_url": "/"
-  }
+  "theme_color": "#7c3f28",
+  "background_color": "#ebaf6b",
+
+  "orientation": "any",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "sv",
+  "name": "Quiz",
+  "short_name": "Quiz",
+  "start_url": "https://petersson123.github.io/npm-sass/",
+
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "./bilder/icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "./bilder/icon512_maskable.png",
+      "type": "image/png"
+    }
+  ]
+}
